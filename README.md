@@ -1,16 +1,13 @@
-<h1 align="center">Hi ðŸ‘‹, I'm Noureddine Charifi</h1>
+<h1 align="center">Hi 👋, I'm Noureddine Charifi</h1>
 <h3 align="center">A passionate fullstack web/mobile developer from Morocco</h3>
-<img align "right" alt "i'm coding" width="400" src ="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" >            
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noureddinecharifi&label=Profile%20views&color=0e75b6&style=flat" alt="noureddinecharifi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noureddinecharifi" alt="noureddinecharifi" /></a> </p>
+- 🌱 I’m currently learning **Flutter , Laravel**
 
-- ðŸŒ± Iâ€™m currently learning **Flutter , Laravel**
+- 👨‍💻 All of my projects are available at [https://noureddinecharifi.netlify.app/](https://noureddinecharifi.netlify.app/)
 
-- ðŸ‘¨â€ðŸ’» All of my projects are available at [https://noureddinecharifi.netlify.app/](https://noureddinecharifi.netlify.app/)
-
-- ðŸ“« How to reach me **noureddinecharifi97@gmail.com**
+- 📫 How to reach me **noureddinecharifi97@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noureddinecharifi&show_icons=true&locale=en" alt="noureddinecharifi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noureddinecharifi&" alt="noureddinecharifi" /></p>
-
