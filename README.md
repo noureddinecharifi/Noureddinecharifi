@@ -3,23 +3,21 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nabilcambiaso&label=Profile%20views&color=0e75b6&style=flat" alt="nabilcambiaso" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nabilcambiaso" alt="nabilcambiaso" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noureddinecharifi" alt="noureddinecharifi" /></a> </p>
 
 <h2>About Me</h2>
 
-- 👨‍💻 I'm a dedicated Software Engineer and AWS enthusiast based in Morocco.
+- 👨‍💻 I'm a dedicated Flutter | React native developer based in Morocco.
 
-- 🔭 I specialize in web development using **React**, **Angular**, and more, crafting dynamic and user-friendly web applications.
+- 📱 I specialize in Mobile development using **Flutter**, **React native**, and more, crafting dynamic and user-friendly mobile applications.
 
-- 📱 I'm experienced in mobile app development with **React Native**, bringing ideas to life on iOS and Android platforms.
-
-- 💻 For desktop applications, I work with technologies like **ElectronJS** and **ADO.NET** to build powerful desktop software.
+- 💻 For desktop applications, I work with technologies like **ADO.NET** to build powerful desktop software.
 
 - 🌱 I'm constantly learning and staying up-to-date with the latest technologies to enhance my skills.
 
-- 💬 Feel free to ask me about **React**, **Angular**, **React Native**, **AWS**, **GitHub Actions**, **CI/CD automation**, and more.
+- 💬 Feel free to ask me about **Flutter**, **React Native**, **React Native**, **GitHub Actions**, **CI/CD automation**, and more.
 
-- 📫 You can reach me via email at **nabilcambiaso@gmail.com** or call me at **+212609495066**.
+- 📫 You can reach me via email at **noureddinecharifi97@gmail.com** or call me at **+212603968251**.
 
 - ⚡ Fun Fact: "First solve the problem, then write the code."
 
