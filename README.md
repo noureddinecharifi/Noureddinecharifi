@@ -5,7 +5,61 @@
 
 - 👨‍💻 I'm a dedicated Flutter | React native developer based in Morocco.
 
-- 📱 I specialize in Mobile development using **Flutter**, **React native**, and more, crafting dynamic and user-friendly mobile applications.
+- 📱 I specialize in Mobile development using **Flutter**, **React native**,<p align="center">
+  <img src="your_profile_image_url" alt="Noureddine Charifi">
+</p>
+
+<h1 align="center">🚀 Welcome to My World 🚀</h1>
+<h3 align="center">Passionate Mobile Developer based in Morocco</h3>
+
+<div align="center">
+  <a href="https://linkedin.com/in/noureddinecharifi" target="blank"><img src="linkedin_icon_url" alt="LinkedIn"></a>
+  <a href="https://instagram.com/nouredine_charifi" target="blank"><img src="instagram_icon_url" alt="Instagram"></a>
+  <a href="https://www.behance.net/noureddinecharifi" target="blank"><img src="behance_icon_url" alt="Behance"></a>
+  <a href="https://www.youtube.com/c/herowindows" target="blank"><img src="youtube_icon_url" alt="YouTube"></a>
+</div>
+
+<h2>About Me</h2>
+
+- 👨‍💻 Proudly dedicated Flutter and React Native developer from the heart of Morocco.
+
+- 📱 Craftsperson of dynamic and user-friendly mobile applications with Flutter and React Native.
+
+- 💻 Creator of powerful desktop software using ADO.NET for desktop applications.
+
+- 🌱 A perpetual learner, staying on the cutting edge of technology to enhance my skills.
+
+- 💬 Ask me about Flutter, React Native, GitHub Actions, CI/CD automation, and more!
+
+- 📫 Reach out via email at **noureddinecharifi97@gmail.com** or call me at **+212603968251**.
+
+- ⚡ Fun Fact: "First solve the problem, then write the code."
+
+<h3 align="left">Languages and Tools:</h3>
+
+<div align="center">
+  <img src="android_icon_url" alt="Android" width="40" height="40"/>
+  <img src="bootstrap_icon_url" alt="Bootstrap" width="40" height="40"/>
+  <img src="css3_icon_url" alt="CSS3" width="40" height="40"/>
+  <img src="dart_icon_url" alt="Dart" width="40" height="40"/>
+  <img src="dotnet_icon_url" alt=".NET" width="40" height="40"/>
+  <img src="figma_icon_url" alt="Figma" width="40" height="40"/>
+  <img src="firebase_icon_url" alt="Firebase" width="40" height="40"/>
+  <img src="flutter_icon_url" alt="Flutter" width="40" height="40"/>
+  <img src="git_icon_url" alt="Git" width="40" height="40"/>
+  <img src="javascript_icon_url" alt="JavaScript" width="40" height="40"/>
+  <img src="laravel_icon_url" alt="Laravel" width="40" height="40"/>
+  <img src="materialize_icon_url" alt="Materialize" width="40" height="40"/>
+  <img src="mysql_icon_url" alt="MySQL" width="40" height="40"/>
+  <img src="php_icon_url" alt="PHP" width="40" height="40"/>
+  <img src="postman_icon_url" alt="Postman" width="40" height="40"/>
+  <img src="react_icon_url" alt="React" width="40" height="40"/>
+  <img src="react_native_icon_url" alt="React Native" width="40" height="40"/>
+  <img src="redux_icon_url" alt="Redux" width="40" height="40"/>
+  <img src="tailwind_icon_url" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="typescript_icon_url" alt="TypeScript" width="40" height="40"/>
+</div>
+ and more, crafting dynamic and user-friendly mobile applications.
 
 - 💻 For desktop applications, I work with technologies like **ADO.NET** to build powerful desktop software.
 
