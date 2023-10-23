@@ -1,10 +1,6 @@
 <h1 align="center">👋 Hi, I'm Noureddine Charifi</h1>
 <h3 align="center">Passionate Mobile Developer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nabilcambiaso&label=Profile%20views&color=0e75b6&style=flat" alt="nabilcambiaso" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noureddinecharifi" alt="noureddinecharifi" /></a> </p>
-
 <h2>About Me</h2>
 
 - 👨‍💻 I'm a dedicated Flutter | React native developer based in Morocco.
