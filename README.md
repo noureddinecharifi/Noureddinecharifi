@@ -15,6 +15,6 @@
     <img src="https://skillicons.dev/icons?i=,flutter,firebase,react,nextjs,vite,redux,typescript,tailwind"/><br/>
     <img src="https://skillicons.dev/icons?i=figma" />
   </a>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,vscode,github,git,androidstudio,flutter,firebase,react,nextjs,vite,redux,typescript,tailwind,&perline=3"/>
 </p
 
