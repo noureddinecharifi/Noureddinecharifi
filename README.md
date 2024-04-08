@@ -1,4 +1,4 @@
-<p>Hey! Im Noureddine charifi</p>
+<h2>Hey! Im Noureddine charifi</h2>
 <p>
   <img align= "center" src="https://github.com/noureddinecharifi/Noureddinecharifi/blob/main/banner.gif"
 </p>
