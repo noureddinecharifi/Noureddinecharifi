@@ -8,8 +8,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,vscode,github,git,androidstudio,flutter,firebase,react,nextjs,vite,redux,typescript,tailwind,figma,ps,&perline=9"/>
 </p>
-<div>
-  "https://streak-stats.demolab.com/?user=noureddinecharifi"
+<div align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=noureddinecharifi)](https://git.io/streak-stats)
 </div>
 <h3 align="center">Contributions:</h3>
 <p align="center">
