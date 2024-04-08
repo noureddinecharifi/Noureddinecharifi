@@ -1,3 +1,8 @@
+<p align=”center”>
+
+<img width=”200" height=”200" src=”https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
+
+</p>
 <h3 align="center">Software engineer</h3>
 <div>
   <p align="center"">As a developer, I specialize in mobile app development using <b>Flutter</b> and <b>React Native</b>, along with front-end expertise in <b>React</b>, <b>Next.js</b>, and <b>Tailwind CSS</b>. With a focus on crafting seamless user experiences, I blend innovation and creativity to deliver polished solutions for diverse platforms.</p>
