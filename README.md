@@ -28,8 +28,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,javascript,react,nextjs,vite,tailwind,figma" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,javascript,react,nextjs,vite,tailwind,mysql" />
+     <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
   </a>
 </p
-<p align="center"> 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)</p>
+
