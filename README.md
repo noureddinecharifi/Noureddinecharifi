@@ -2,10 +2,7 @@
   <img align= "center" src="https://github.com/noureddinecharifi/Noureddinecharifi/blob/main/testimage.jpg"
 </p>
 <h3 align="center">Software engineer</h3>
-<div>
-    <div align="right"><img align="right" width="200" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" </div>
-<div>
-  <p align="left"">As a developer, I specialize in mobile app development using <b>Flutter</b> and <b>React Native</b>, along with front-end expertise in <b>React</b>, <b>Next.js</b>, and <b>Tailwind CSS</b>. With a focus on crafting seamless user experiences, I blend innovation and creativity to deliver polished solutions for diverse platforms.</p>
+  <p align="center">As a developer, I specialize in mobile app development using <b>Flutter</b> and <b>React Native</b>, along with front-end expertise in <b>React</b>, <b>Next.js</b>, and <b>Tailwind CSS</b>. With a focus on crafting seamless user experiences, I blend innovation and creativity to deliver polished solutions for diverse platforms.</p>
 </div>
 </div>
 <br/>
