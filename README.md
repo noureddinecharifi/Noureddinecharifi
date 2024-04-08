@@ -10,6 +10,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,vscode,github,git,androidstudio,flutter,firebase,react,nextjs,vite,redux,typescript,tailwind,&perline=3"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,vscode,github,git,
+androidstudio,flutter,firebase,react,nextjs,vite,redux,typescript,tailwind,figma,ps,ai&perline=3"/>
 </p
 
