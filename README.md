@@ -1,4 +1,3 @@
-<h4 align= "center">Noureddine charifi</h4>
 <h4 align= "center">{ Software engineer }</h4>
 <p>
   <img align= "center" src="https://github.com/noureddinecharifi/Noureddinecharifi/blob/main/banner.gif"
