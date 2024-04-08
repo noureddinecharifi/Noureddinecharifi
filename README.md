@@ -1,6 +1,6 @@
 <p>
-  <h2 align="center">Noureddine charifi</h2>
-<h3 align="center">Software engineer</h3>
+  <h3 align="center">Noureddine charifi</h3>
+  <h3 align="center">Software engineer</h3>
 </p>
 <p>
   <img align= "center" src="https://github.com/noureddinecharifi/Noureddinecharifi/blob/main/banner.gif"
