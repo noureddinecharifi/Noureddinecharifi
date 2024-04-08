@@ -1,7 +1,4 @@
-
-  <p>This is the first line.</p>
-<p>This is the second line.</p>
-
+<p>Hey! Im Noureddine charifi</p>
 <p>
   <img align= "center" src="https://github.com/noureddinecharifi/Noureddinecharifi/blob/main/banner.gif"
 </p>
