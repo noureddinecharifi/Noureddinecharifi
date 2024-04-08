@@ -28,7 +28,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,javascript,react,nextjs,vite,tailwind,mysql" /><br/>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,javascript," /><br/>
+    <img src="https://skillicons.dev/icons?i=,flutter,firebase,react,nextjs,vite,redux,tailwind,mysql" /><br/>
      <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
   </a>
 </p
