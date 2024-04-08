@@ -1,7 +1,7 @@
-<p>
-  <h3 align="center">Noureddine charifi</h3>
-  <p align="center">Software engineer</p>
-</p>
+
+  <p>This is the first line.</p>
+<p>This is the second line.</p>
+
 <p>
   <img align= "center" src="https://github.com/noureddinecharifi/Noureddinecharifi/blob/main/banner.gif"
 </p>
