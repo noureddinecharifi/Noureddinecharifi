@@ -1,4 +1,4 @@
-<img src="[https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif](https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif)" alt="Description of the image width: 100%;" >
+<img src="[https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif](https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif)" alt="Description of the image" >
 <h1 align="center">👋 Hi, I'm Noureddine Charifi</h1>
 <h3 align="center">Passionate Mobile Developer</h3>
 
