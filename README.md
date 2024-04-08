@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,vscode,github,git,androidstudio"/><br/>
-    <img src="https://skillicons.dev/icons?i=,flutter,firebase,react,nextjs,vite,redux,typescript,tailwind"/></a><br/>
+    <img align="center src="https://skillicons.dev/icons?i=,flutter,firebase,react,nextjs,vite,redux,typescript,tailwind"/></a><br/>
     <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
   </a>
 </p
