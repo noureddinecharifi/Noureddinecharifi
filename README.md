@@ -12,8 +12,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,vscode,github,git,androidstudio,flutter,firebase,react,nextjs,vite,redux,typescript,tailwind,figma,ps,&perline=9"/>
 </p>
-<div align="center">
-  <img src="https://github.com/noureddinecharifi/noureddinecharifi/blob/output/github-contribution-grid-snake.gif" width="700"
-</div>
+ <img align="center" src="https://github.com/noureddinecharifi/noureddinecharifi/blob/output/github-contribution-grid-snake.gif" width="700"
 
 
