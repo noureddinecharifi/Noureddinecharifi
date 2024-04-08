@@ -1,3 +1,4 @@
+<h3 align="center">Software engineer</h3>
 <p>
   <img align= "center" src="https://github.com/noureddinecharifi/Noureddinecharifi/blob/main/banner.gif"
 </p>
