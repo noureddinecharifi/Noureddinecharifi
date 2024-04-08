@@ -1,7 +1,5 @@
-<p align=”center”>
-
-<img width=”200" height=”200" src=”https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
-
+<p>
+  <img align= "center" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"
 </p>
 <h3 align="center">Software engineer</h3>
 <div>
