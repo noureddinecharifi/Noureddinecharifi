@@ -31,3 +31,5 @@
     <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,javascript,react,nextjs,vite,tailwind,figma" />
   </a>
 </p
+<p align="center"> 
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)</p>
