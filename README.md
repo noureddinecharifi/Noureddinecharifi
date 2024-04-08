@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" alt="Description of the image" >
+<img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" alt="Description of the image width: 100%;" >
 <h1 align="center">👋 Hi, I'm Noureddine Charifi</h1>
 <h3 align="center">Passionate Mobile Developer</h3>
 
