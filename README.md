@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="center">
-  <img src="https://github.com/noureddinecharifi/noureddinecharifi/blob/output/github-contribution-grid-snake.gif" height="30" width="40"
+  <img src="https://github.com/noureddinecharifi/noureddinecharifi/blob/output/github-contribution-grid-snake.gif" height="300" width="400"
 </div>
 <p align="left">
 
