@@ -4,19 +4,6 @@
 
 <h2>About Me</h2>
 
-- 👨‍💻 I'm a dedicated Flutter | React native developer based in Morocco.
-
-- 📱 I specialize in Mobile development using **Flutter**, **React native**, and more, crafting dynamic and user-friendly mobile applications.
-
-- 💻 For desktop applications, I work with technologies like **ADO.NET** to build powerful desktop software.
-
-- 🌱 I'm constantly learning and staying up-to-date with the latest technologies to enhance my skills.
-
-- 💬 Feel free to ask me about **Flutter**, **React Native**, **React Native**, **GitHub Actions**, **CI/CD automation**, and more.
-
-- 📫 You can reach me via email at **noureddinecharifi97@gmail.com** or call me at **+212603968251**.
-
-- ⚡ Fun Fact: "First solve the problem, then write the code."
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
