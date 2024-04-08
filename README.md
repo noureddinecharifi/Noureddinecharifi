@@ -2,7 +2,9 @@
 <h3 align="center">Software engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
-# ![snake gif](https://github.com/noureddinecharifi/noureddinecharifi/blob/output/github-contribution-grid-snake.gif)
+<div>
+  <img src="https://github.com/noureddinecharifi/noureddinecharifi/blob/output/github-contribution-grid-snake.gif"
+</div>
 <p align="left">
 
 
