@@ -1,3 +1,4 @@
+# ![snake gif](https://github.com/noureddinecharifi/noureddinecharifi/blob/output/github-contribution-grid-snake.gif)
 <h3 align="center">Software engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
