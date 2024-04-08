@@ -1,4 +1,3 @@
-# ![snake gif](https://github.com/noureddinecharifi/noureddinecharifi/blob/output/github-contribution-grid-snake.gif)
 <h3 align="center">Software engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
@@ -13,4 +12,5 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,vscode,github,git,androidstudio,flutter,firebase,react,nextjs,vite,redux,typescript,tailwind,figma,ps,&perline=6"/>
 </p
+# ![snake gif](https://github.com/noureddinecharifi/noureddinecharifi/blob/output/github-contribution-grid-snake.gif)
 
